@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WebCrawler</name>
+    </assembly>
+    <members>
+        <member name="M:WebCrawler.Controllers.WeatherForecastController.WeatherForecast(System.String,System.Nullable{System.DateTime})">
+            <param name="cidade">(Exemplo: Rio de Janeiro)</param>
+            <param name="data">(Opicional - Exemplo: 2023-12-06 12:00)</param>
+        </member>
+        <member name="M:WebCrawler.Controllers.WeatherForecastController.PostWheatherForecast(System.String,System.Nullable{System.DateTime})">
+            <param name="cidade">(Exemplo: Rio de Janeiro)</param>
+            <param name="data">(Opicional - Exemplo: 2023-12-06 12:00)</param>
+        </member>
+    </members>
+</doc>
