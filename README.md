@@ -1,2 +1,2 @@
 # WebCrawler
-aplicação que explora a internet em busca de informações e coleta dados
+WebCrawler is an advanced web application designed to explore the internet in search of valuable information and collect data efficiently. By leveraging powerful web scraping techniques, this application navigates through various websites, extracts relevant content, and organizes it for further analysis. Ideal for data enthusiasts, researchers, and businesses, WebCrawler automates the process of data collection, saving time and effort while providing insightful and actionable information from across the web.
